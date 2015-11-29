@@ -91,5 +91,9 @@ port: 8745</p>
 <p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 16px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 28.4444px;"><a href="https://mega.nz/#!m5p3yThQ!-sef4I3z4m043Nj6FNVkBEzIf0oB0mp_YpGk8M2YVc0" style="box-sizing: border-box; color: rgb(64, 120, 192); text-decoration: none;" target="_blank">Download QT MegaNZ</a></p>
 
 <p style="box-sizing: border-box; margin-top: 0px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 28.4444px; margin-bottom: 0px !important;">Recommend to leave the unlocked wallet open as often as practical as you have more chance of staking. Plus, the more coins you have, the larger the stake (2% of 10,000 is more than 2% of 100). The easiest way to leave a wallet open without hassle is on a server. You can even run it as a daemon if you use Linux.</p>
+
+<p>The explorer is experimental, meaning not finished. We are trying to make our own customised one. We also need to reindex.</p>
+
+<p><a href="http://explorer.bdsm-fetish.net/" target="_blank">Explorer</a></p>
 </body>
 </html>
